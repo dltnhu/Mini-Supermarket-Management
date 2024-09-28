@@ -1,0 +1,1218 @@
+H:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+H:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+H:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+H:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+H:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+H:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+E:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+E:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+E:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+E:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+E:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+E:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.SuggestedBindingRedirects.cache
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+E:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.SuggestedBindingRedirects.cache
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.LoginGUI.resources
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+C:\Users\mthan\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.SuggestedBindingRedirects.cache
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.LoginGUI.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.SanPham.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.LoaiSanPham.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.NhanVien.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.TaiKhoan.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.HoaDon.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.Core.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.Core.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.Core.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\Documents\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.CTDonNhapHang.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DonNhapHang.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.NhaCungCap.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.PhanQuyen.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhanVien.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemTaiKhoan.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\Documents\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.Core.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.Core.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.Core.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.SuggestedBindingRedirects.cache
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+D:\N4_HK1_2023-2024\C#\Sieuthimini\SieuThiMini\obj\Debug\SieuThiMini.GUI.LoaiSanPham.resources
+D:\N4_HK1_2023-2024\C#\Sieuthimini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\N4_HK1_2023-2024\C#\Sieuthimini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.LoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Guna.UI2.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Guna.UI.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.FormQuanLy.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Product.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Category.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Supplier.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Bill.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Import.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.FormQuanLy.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.LoaiSanPham.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Bill.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Category.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Import.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Product.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Supplier.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Bill.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Import.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.Manager_Supplier.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.NhanVien.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.TaiKhoan.resources
+D:\Documents\N4_HK1_2023-2024\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.NhanVien.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.TaiKhoan.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+C:\Users\Bich Ngoc\source\repos\SieuThiMini1\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemTaiKhoan.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhanVien.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhanVien.resources
+D:\Documents\N4_HK1_2023-2024\C#\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyTaiKhoan.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhanVien.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhanVien.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyTaiKhoan.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemTaiKhoan.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+C:\Users\Bich Ngoc\source\repos\SieuThiMini2\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\Downloads\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhanVien.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhanVien.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyTaiKhoan.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemTaiKhoan.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucTaiKhoan.resources
+D:\Downloads\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhanVien.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhanVien.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucTaiKhoan.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhanVien.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyTaiKhoan.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhanVien.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemTaiKhoan.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+C:\Users\Admin\Desktop\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\ZstdSharp.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\BouncyCastle.Cryptography.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.pdb
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Enums.NET.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.pdb
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Google.Protobuf.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\itextsharp.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\K4os.Hash.xxHash.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\MathNet.Numerics.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\MySql.Data.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OOXML.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\NPOI.OpenXml4Net.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\PdfSharp.Charting.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.Fonts.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\SixLabors.ImageSharp.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Buffers.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.IO.Pipelines.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Memory.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Security.AccessControl.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.resources.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.BanHang.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietDonNhapHang.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ChiTietHoaDon.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DangNhap.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhanVien.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucTaiKhoan.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhanVien.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLy.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucDonNhapHang.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucHoaDon.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucLoaiSanPham.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucNhaCungCap.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.KhoiPhucSanPham.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyHoaDon.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyLoaiSanPham.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhaCungCap.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyNhapHang.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLySanPham.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.QuanLyTaiKhoan.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemDonNhapHang.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemLoaiSanPham.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhaCungCap.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNhanVien.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemSanPham.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemTaiKhoan.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThongKe.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CopyComplete
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.TinhLuong.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.DuyetNghi.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.ThemNghiPhep.resources
+D:\C#\ĐỒ ÁN SIÊU THỊ MINI\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.GUI.TKe.resources
